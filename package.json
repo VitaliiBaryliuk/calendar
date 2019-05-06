@@ -2,6 +2,7 @@
   "name": "calendar",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://vitaliybaryliuk.github.io/calendar",
   "dependencies": {
     "lodash.debounce": "^4.0.8",
     "node-sass": "^4.12.0",
